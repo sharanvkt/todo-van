@@ -248,6 +248,8 @@ input[type="checkbox"]:checked::before {
 
 .todos li span[contenteditable]:hover {
   background-color: var(--color-body);
+  padding: 2px 6px;
+
 }
 
 /* 768px and above */
